@@ -75,10 +75,7 @@
 ## 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alberto-almeida-568280213/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/253578328189960204">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/alberto-almeida-568280213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  </a>&nbsp;<a
+  <a href="https://discord.com/users/253578328189960204"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
