@@ -68,7 +68,7 @@
 ## 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meaar&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meaar&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 
